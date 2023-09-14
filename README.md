@@ -1,0 +1,1 @@
+# install_k8s_on_AstraLinux
